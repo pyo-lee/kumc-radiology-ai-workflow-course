@@ -15,7 +15,7 @@ This repository provides course materials for radiology workflow enhancement usi
 
 ## Colab에서 바로 열기
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pyo_lee/kumc-radiology-ai-workflow-course/blob/main/notebooks/python-csv-structure-and-basic-processing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pyo_lee/kumc-radiology-ai-workflow-course/blob/main/python-csv-structure-and-basic-processing.ipynb)
 
 ## 실습 순서
 
