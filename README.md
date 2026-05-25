@@ -13,6 +13,9 @@ This repository provides course materials for radiology workflow enhancement usi
 - UCI Machine Learning Repository
 - 목표: 퇴원 후 30일 이내 재입원 여부 예측
 
+- https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+- https://onlinelibrary.wiley.com/doi/10.1155/2014/781670
+
 ## Colab에서 바로 열기
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pyo-lee/kumc-radiology-ai-workflow-course/blob/main/python-csv-structure-and-basic-processing.ipynb)
