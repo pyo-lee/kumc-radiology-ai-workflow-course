@@ -15,7 +15,7 @@ This repository provides course materials for radiology workflow enhancement usi
 
 ## Colab에서 바로 열기
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/깃허브아이디/저장소이름/blob/main/notebooks/diabetes_csv_preprocessing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pyo_lee/kumc-radiology-ai-workflow-course/blob/main/notebooks/[강의2] Python을 활용한 CSV 파일 구조 이해 및 기초 처리.ipynb)
 
 ## 실습 순서
 
